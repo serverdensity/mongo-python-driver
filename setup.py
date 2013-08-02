@@ -273,7 +273,7 @@ if should_run_tests():
     write_nose_config()
 
 setup(
-    name="pymongo",
+    name="pymongo_23",
     version=version,
     description="Python driver for MongoDB <http://www.mongodb.org>",
     long_description=readme_content,
